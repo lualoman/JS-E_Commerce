@@ -1,0 +1,54 @@
+[{
+    "precio": 100,
+    "id": 1,
+    "title": "McBook Air",
+    "imagen": "recursos/mcbook.jpeg"
+},
+{
+    "precio": 200,
+    "id": 2,
+    "title": "Smartphone",
+    "imagen": "recursos/iphone.jpeg"
+    },
+{
+    "precio": 300,
+    "id": 3,
+    "title": "Auriculares inalambricos",
+    "imagen": "recursos/airpods.jpeg"
+    },
+{
+    "precio": 400,
+    "id": 4,
+    "title": "Taza inteligente",
+    "imagen": "recursos/taza.jpeg"
+    },
+{
+    "precio": 500,
+    "id": 5,
+    "title": "Mouse inalambrico",
+    "imagen": "recursos/mouse.jpeg"
+    },
+{
+    "precio": 600,
+    "id": 6,
+    "title": "Parlante Bluetooth",
+    "imagen": "recursos/parlante.jpeg"
+    },
+{
+    "precio": 700,
+    "id": 7,
+    "title": "Silla GAMER",
+    "imagen": "recursos/silla.jpeg"
+    },
+{
+    "precio": 800,
+    "id": 8,
+    "title": "Robot Pet Emo",
+    "imagen": "recursos/emo.jpeg"
+    },
+{
+    "precio": 900,
+    "id": 9,
+    "title": "Luces LED",
+    "imagen": "recursos/lucesled.jpeg"
+    }]
